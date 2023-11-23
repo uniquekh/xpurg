@@ -2,9 +2,9 @@
   <b>Save restricted content Bot</b>
 </h1> 
 
-Contact: [Telegram](https://t.me/MaheshChauhan)
+Contact: [Telegram](https://t.me/DankNet)
 
-A stable telegram bot to get restricted messages with custom thumbnail support , made by Mahesh Chauhan. 
+A stable telegram bot to get restricted messages with custom thumbnail support .
 
 - works for both public and private chats
 - Custom thumbnail support for Pvt medias
@@ -29,7 +29,7 @@ A stable telegram bot to get restricted messages with custom thumbnail support ,
  
 API: [API scrapper Bot](https://t.me/USETGSBOT) or [Telegram.org](https://my.telegram.org/auth)
 
-PYROGRAM SESSION: [SessionGen Bot](https://t.me/SessionStringGeneratorRobot) or [![Run on Repl.it](https://replit.com/badge/github/vasusen-code/saverestrictedcontentbot)](https://replit.com/@levinalab/Session-Generator#main.py)
+PYROGRAM SESSION: [SessionGen Bot](https://t.me/SessionStringGeneratorRobot) or [![Run on Repl.it](https://replit.com/badge/github/amitpatle/DankRobot)](https://replit.com/@levinalab/Session-Generator#main.py)
 
 BOT TOKEN: @Botfather on telegram
 
@@ -51,7 +51,7 @@ sudo docker-compose up --build
 
 The hard Way:
 
-- Fill vars in your fork in [this](https://github.com/vasusen-code/SaveRestrictedContentBot/blob/master/main/__init__.py) file as shown in this [picture](https://t.me/MaheshChauhan/36)
+- Fill vars in your fork in [this](https://github.com/amitpatle/DankRobot/blob/master/main/__init__.py) file 
 - enter all the below commands
 
 ```
@@ -90,7 +90,7 @@ Deploy your bot on `heroku`
 Buildpacks for manual deploy:
 
 - `heroku/python`
-- `https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git`
+- `https://github.com/amitpatle/DankRobot.git`
 
 Deploy your bot on `Okteto` [Useless]
   
