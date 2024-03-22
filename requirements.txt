@@ -1,8 +1,0 @@
-#Github.com-Vasusen-code
-
-https://github.com/vasusen-code/Telethon/archive/refs/tags/v1.24.0.zip
-https://github.com/gagharutyunyan1993/ethon/archive/refs/tags/v1.3.9.zip
-cryptg
-tgcrypto
-pyrogram
-python-decouple
