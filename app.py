@@ -7,7 +7,7 @@ app = Flask(__name__)
 def home():
     return """
 <center> 
-    <img src="https://i.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.webp" style="border-radius: 12px;"/> 
+    <img src="https://images.app.goo.gl/yAKA7g3v2qHpuHgw7" style="border-radius: 12px;"/> 
 </center> 
 <style>
     body { 
