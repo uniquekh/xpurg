@@ -7,7 +7,7 @@ app = Flask(__name__)
 def home():
     return """
 <center> 
-    <img src="https://images.app.goo.gl/yAKA7g3v2qHpuHgw7" style="border-radius: 12px;"/> 
+    <img src="Emoji_Icon_-_Sunglasses_cool_emoji_large.webp" style="border-radius: 12px;"/> 
 </center> 
 <style>
     body { 
